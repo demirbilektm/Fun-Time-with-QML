@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ExpandableItem.qml</file>
+        <file>Dali.jpg</file>
+        <file>Images/alexievitch-diploma.jpg</file>
+        <file>Images/beckett-diploma.jpg</file>
+        <file>Images/lessing_diploma.jpg</file>
+        <file>Images/munro-diploma.jpg</file>
+        <file>Images/neruda-diploma.jpg</file>
+        <file>Images/pamuk_diploma.jpg</file>
+        <file>Images/paz-diploma.jpg</file>
+    </qresource>
+</RCC>
